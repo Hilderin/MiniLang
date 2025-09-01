@@ -128,6 +128,7 @@
     <ClCompile Include="Token.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ExprAST.h" />
     <ClInclude Include="Lexer.h" />
     <ClInclude Include="ASTBuilder.h" />
     <ClInclude Include="Token.h" />

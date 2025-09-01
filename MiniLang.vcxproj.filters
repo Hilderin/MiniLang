@@ -35,5 +35,8 @@
     <ClInclude Include="ASTBuilder.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="ExprAST.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
